@@ -1,0 +1,9 @@
+333666999
+MENU=./assets/sound/menu.ogg
+MENU2=./assets/sound/menu.ogg
+SHOT=./assets/sound/shot.ogg
+UP=./assets/sound/lvlup.ogg
+CLICK=assets/sound/click.ogg
+MAP=./assets/sound/map.ogg
+FIGHT=./assets/sound/fight.ogg
+BOSS=./assets/sound/boss.ogg

@@ -1,0 +1,14 @@
+333666999
+LITTLE POTION=;100:250;Heals you for 100 HP!
+MEDIUM POTION=;250:500;Heals you for 250 HP!
+LARGE POTION=;500:1000;Heals you for 500 HP!
+NORMAL BOOTS=;50:300;Grants you 50 Movement Speed!
+SPEED BOOTS=;75:500;Grants you 75 Movement Speed!
+BERZEKER BOOTS=;100:700;Grants you 100 Movement Speed!
+GLADIATOR BOOTS=;150:1000;Grants you 150 Movement Speed!
+LITTLE CANON=;30:1500;Grants you 30% Critical Rate!
+PHATOM DANSER=;50:2000;Grants you 50% Chance to gain an extra turn!
+STATIK SHIEVE=;50:3000;Grants you 50% Critical Rate!
+BLOOD BLADE=;30:3200;Grants you 30% Lifesteal!
+SPECTRAL BLADE=;50:3500;Grants you 50 Damages!
+INFINITY EDGE=;80:4000;Grants you 80 Damages and Double all Critical Rate!
