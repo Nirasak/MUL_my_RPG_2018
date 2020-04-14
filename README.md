@@ -1,7 +1,7 @@
-# MUL_my_RPG_2018
+# MUL_my_rpg_2018
 
 ## Description
-C Graphical Programming my_RPG Epitech Teck1
+C Graphical Programming my_rpg Epitech Teck1
 
 This project is one of the freest project of your first year. Create your own RPG.  
 Your main challenge for this game will be to create a complete product using everything that you and your
